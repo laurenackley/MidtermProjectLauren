@@ -125,9 +125,8 @@ This was a great project to build upon our paired programming experience and ski
 
 ### <strong>How To Run:</strong>
 
-Go to: http://52.5.120.254:8080/Sip/
+Go to: http://sip.laurenackley.dev/
 <ul>
 <li> Register a new account</li>
 <li> Start adding journal entries! </li>
 </ul>
-# MidtermProjectPersonal
